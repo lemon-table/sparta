@@ -15,7 +15,6 @@ console.log("Hello, GitHub Markdown!");
 *기울임*  
 ~~취소선~~  
 
-![레몬사진]([https://example.com/image.jpg](https://newswave25.com/wp-content/uploads/2021/12/Screenshot-2021-12-08-113111.png)https://newswave25.com/wp-content/uploads/2021/12/Screenshot-2021-12-08-113111.png)
-
+![레몬사진](https://newswave25.com/wp-content/uploads/2021/12/Screenshot-2021-12-08-113111.png)
 
 
